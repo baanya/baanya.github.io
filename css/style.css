@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-color: #EAEAEA;
+  font-family: 'Montserrat', sans-serif;
+  align-items: center;
+}
+
+.top-container {
+height: 100px;
+background-color: #364F6B
+}
+
+.badge-div{
+  position: absolute;
+  top:2rem;
+  left: 5px;
+  height: 10rem;
+  width: 10rem;
+  border-radius: 100%;
+  /* border: 2px solid black; */
+  background-image:url("../images/407110_2805453148674_796763048_n.jpg");
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-color: white;
+  background-position: center;
+}
+
+.main-header {
+color: #EAEAEA;
+font-family: 'Titillium Web', sans-serif;
+font-weight: lighter;
+font-size: 3rem;
+letter-spacing: .2rem;
+margin: 0 auto 0 auto;
+padding-top: 1rem;
+width: 37%;
+text-align:center;
+}
